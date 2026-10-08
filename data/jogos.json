@@ -1,0 +1,5985 @@
+[
+ {
+  "id": "g1",
+  "nome": "Chicago 1875: City of the Big Shoulders",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/-chicago-1875-city-of-the-big-shoulders",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/19212_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g2",
+  "nome": "L.L.A.M.A.",
+  "donos": [
+   "TheOne",
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/-l-l-a-m-a",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/20870_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g3",
+  "nome": "Scholars of the South Tigris",
+  "donos": [
+   "reisfelipejr",
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/-scholars-of-the-south-tigris",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/42403_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g4",
+  "nome": "1000?",
+  "donos": [
+   "majestic234",
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/1000",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/63379_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g5",
+  "nome": "221B Baker Street: The Master Detective Game",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/221b-baker-street-the-master-detective-game",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/398_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g6",
+  "nome": "3 Chapters",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/3-chapters",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/68017_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g7",
+  "nome": "5 Towers",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/5-towers",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/57955_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g8",
+  "nome": "6 Nimmt! 25 Jahre",
+  "donos": [
+   "majestic234",
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/6-nimmt-25-jahre",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/681_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g9",
+  "nome": "7 Wonders (Second Edition)",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/7-wonders-second-edition",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/25979_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g10",
+  "nome": "7 Wonders Duel",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/7-wonders-duel",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/8285_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g11",
+  "nome": "9 Lives",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/9-lives",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/42605_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g12",
+  "nome": "A Game of Thrones: The Board Game (Second Edition)",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/a-game-of-thrones-the-board-game-second-edition",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/5_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g13",
+  "nome": "A Game of Thrones: The Card Game",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/a-game-of-thrones-the-card-game",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/630_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g14",
+  "nome": "Acquire (2023 Edition)",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/acquire-2023-edition",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/55076_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g15",
+  "nome": "Acuse! Vilãs de Novela",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/acuse-vilas-de-novela",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/75983_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g16",
+  "nome": "Age of Innovation",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/age-of-innovation",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/50473_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g17",
+  "nome": "Agra",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/agra",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/14567_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g18",
+  "nome": "Akropolis",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/akropolis",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/36012_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g19",
+  "nome": "Alchemists",
+  "donos": [
+   "majestic234",
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/alchemists",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/6445_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g20",
+  "nome": "Allegra",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/allegra",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/34163_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g21",
+  "nome": "Alma Mater",
+  "donos": [
+   "TheOne",
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/alma-mater",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/24237_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g22",
+  "nome": "Amalfi: Renaissance",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/amalfi-renaissance",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/38133_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g23",
+  "nome": "American Bookshop",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/american-bookshop",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/31124_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g24",
+  "nome": "Anachrony",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/anachrony",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/9538_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g25",
+  "nome": "Android: Netrunner - Revised Edition",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/android-netrunner-revised-edition",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/108_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g26",
+  "nome": "Andromeda's Edge",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/andromeda-s-edge",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/41546_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g27",
+  "nome": "Animix",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/animix",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/26508_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g28",
+  "nome": "Apiary",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/apiary",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/57670_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g29",
+  "nome": "Arborea",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/arborea",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/40962_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g30",
+  "nome": "Archipelago",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/archipelago",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/219_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g31",
+  "nome": "Arcs",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/arcs",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/35661_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g32",
+  "nome": "Ark Nova",
+  "donos": [
+   "TheOne",
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/ark-nova",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/32507_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g33",
+  "nome": "Arkham Horror: The Card Game (Revised Edition)",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/arkham-horror-the-card-game-revised-edition",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/32088_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g34",
+  "nome": "Armello: The Board Game",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/armello-the-board-game",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/63963_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g35",
+  "nome": "Ascendancy",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/ascendancy",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/43864_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g36",
+  "nome": "Asian Tigers: A Story of Prosperity",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/asian-tigers-a-story-of-prosperity",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/67419_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g37",
+  "nome": "Aurum",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/aurum",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/54001_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g38",
+  "nome": "Awkward Guests 2: The Berwick Cases",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/awkward-guests-2-the-berwick-cases",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/60103_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g39",
+  "nome": "Awkward Guests: The Walton Case",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/awkward-guests-the-walton-case",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/23524_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g40",
+  "nome": "Azul",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/azul",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/14981_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g41",
+  "nome": "Azul Mini",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/azul-mini",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/46380_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g42",
+  "nome": "Azul: Stained Glass of Sintra",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/azul-stained-glass-of-sintra",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/18932_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g43",
+  "nome": "Bamboo",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/bamboo",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/39489_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g44",
+  "nome": "Bananagrams",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/bananagrams",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/3261_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g45",
+  "nome": "Barrage",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/barrage",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/18993_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g46",
+  "nome": "Batalha dos Cookies",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/batalha-dos-cookies",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/65762_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g47",
+  "nome": "Bebê Diabo",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/bebe-diabo",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/70138_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g48",
+  "nome": "Big Top",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/big-top",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/54002_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g49",
+  "nome": "Birds of a Feather: Western North America",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/birds-of-a-feather-western-north-america",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/37054_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g50",
+  "nome": "Bitoku",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/bitoku",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/32813_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g51",
+  "nome": "Black Angel",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/black-angel",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/19005_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g52",
+  "nome": "Black Forest",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/black-forest",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/65898_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g53",
+  "nome": "Boast or Nothing",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/boast-or-nothing",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/45473_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g54",
+  "nome": "Bomb Busters",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/bomb-busters",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/68249_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g55",
+  "nome": "Bonfire",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/bonfire",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/24458_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g56",
+  "nome": "Boop.",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/boop",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/36031_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g57",
+  "nome": "Botanicus",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/botanicus",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/67257_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g58",
+  "nome": "Bottle Imp",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/bottle-imp",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/68231_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g59",
+  "nome": "Brass Birmingham: Deluxe Edition",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/brass-birmingham-deluxe-edition",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/63567_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g60",
+  "nome": "Brass: Birmingham",
+  "donos": [
+   "TheOne",
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/brass-birmingham",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/13494_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g61",
+  "nome": "Brass: Lancashire",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/brass-lancashire",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/13196_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g62",
+  "nome": "BraveRats",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/braverats",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/4279_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g63",
+  "nome": "Brew",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/brew",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/31035_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g64",
+  "nome": "Brian Boru: High King of Ireland",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/brian-boru-high-king-of-ireland",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/33778_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g65",
+  "nome": "Bridge City Poker",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/bridge-city-poker",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/32991_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g66",
+  "nome": "Bristol 1350",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/bristol-1350",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/25067_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g67",
+  "nome": "Broom Service",
+  "donos": [
+   "majestic234",
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/broom-service",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/7015_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g68",
+  "nome": "Bruxelles 1893",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/bruxelles-1893",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/1988_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g69",
+  "nome": "Bruxelles 1897",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/bruxelles-1897",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/22994_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g70",
+  "nome": "Cabanga!",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/cabanga",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/56710_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g71",
+  "nome": "Café",
+  "donos": [
+   "TheOne",
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/cafe",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/23156_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g72",
+  "nome": "Calico",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/calico",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/22518_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g73",
+  "nome": "Canvas",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/canvas",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/26473_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g74",
+  "nome": "Capital Lux",
+  "donos": [
+   "majestic234",
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/capital-lux",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/11370_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g75",
+  "nome": "Capivárias",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/capivarias",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/77064_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g76",
+  "nome": "Capybara 'n' Capybara",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/capybara-n-capybara",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/46879_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g77",
+  "nome": "Carnegie",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/carnegie",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/26163_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g78",
+  "nome": "Cartographers Heroes",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/cartographers-heroes",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/25409_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g79",
+  "nome": "Cartographers: A Roll Player Tale",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/cartographers-a-roll-player-tale",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/21614_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g80",
+  "nome": "Cascadia",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/cascadia",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/25894_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g81",
+  "nome": "Castle Combo",
+  "donos": [
+   "reisfelipejr",
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/castle-combo",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/68154_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g82",
+  "nome": "Castle Party",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/castle-party",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/32317_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g83",
+  "nome": "Cat Days",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/cat-days",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/76633_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g84",
+  "nome": "Cat in the Box: Deluxe Edition",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/cat-in-the-box-deluxe-edition",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/35989_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g85",
+  "nome": "Cat Poker",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/cat-poker",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/63450_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g86",
+  "nome": "CATAN (The Settlers of Catan)",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/catan-the-settlers-of-catan",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/397_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g87",
+  "nome": "CATsle Builders",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/catsle-builders",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/61690_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g88",
+  "nome": "Caverna: The Cave Farmers",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/caverna-the-cave-farmers",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/1860_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g89",
+  "nome": "Caylus",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/caylus",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/19_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g90",
+  "nome": "Century: Golem Edition",
+  "donos": [
+   "palomolh",
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/century-golem-edition",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/14958_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g91",
+  "nome": "Cerebria: The Inside World",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/cerebria-the-inside-world",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/15229_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g92",
+  "nome": "Champions of Wind & Fire",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/champions-of-wind-fire",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/78461_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g93",
+  "nome": "Chandigarh",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/chandigarh",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/65430_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g94",
+  "nome": "Chaos in Gotham City",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/chaos-in-gotham-city",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/45315_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g95",
+  "nome": "Chaparral",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/chaparral",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/11096_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g96",
+  "nome": "CharLatão",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/charlatao",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/65757_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g97",
+  "nome": "Circadians: First Light",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/circadians-first-light",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/22981_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g98",
+  "nome": "Civolution",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/civolution",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/57677_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g99",
+  "nome": "Claim",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/claim",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/16304_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g100",
+  "nome": "Clank!: A Deck-Building Adventure",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/clank-a-deck-building-adventure",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/11178_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g101",
+  "nome": "Clank!: Catacombs",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/clank-catacombs",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/37012_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g102",
+  "nome": "Clash of Cultures: Monumental Edition",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/clash-of-cultures-monumental-edition",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/24301_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g103",
+  "nome": "CO2",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/co2",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/240_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g104",
+  "nome": "Codenames / Codinames",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/codenames-codinames",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/8147_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g105",
+  "nome": "Coffee Rush",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/coffee-rush",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/45683_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g106",
+  "nome": "Coffee Traders",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/coffee-traders",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/26754_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g107",
+  "nome": "Comic Hunters",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/comic-hunters",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/26197_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g108",
+  "nome": "Concordia",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/concordia",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/2194_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g109",
+  "nome": "Cooper Island",
+  "donos": [
+   "palomolh",
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/cooper-island",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/22863_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g110",
+  "nome": "Corrosion",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/corrosion",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/32625_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g111",
+  "nome": "CO₂: Second Chance",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/co-second-chance",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/12390_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g112",
+  "nome": "Cryptid",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/cryptid",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/19210_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g113",
+  "nome": "Cthulhu: Seven Seals",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/cthulhu-seven-seals",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/65095_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g114",
+  "nome": "CuBirds",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/cubirds",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/17436_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g115",
+  "nome": "Cyclades",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/cyclades",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/22_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g116",
+  "nome": "Daimyo: Rebirth of the Empire",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/daimyo-rebirth-of-the-empire",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/28650_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g117",
+  "nome": "Daitoshi",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/daitoshi",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/58768_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g118",
+  "nome": "Dale of Merchants",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/dale-of-merchants",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/10556_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g119",
+  "nome": "DC Super Heroes United: Hush",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/dc-super-heroes-united-hush",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/77025_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g120",
+  "nome": "Dead of Winter: A Crossroads Game",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/dead-of-winter-a-crossroads-game",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/2181_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g121",
+  "nome": "Dealt!",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/dealt",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/43545_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g122",
+  "nome": "Decisiones de Mierda (Shitty Choices)",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/decisiones-de-mierda-shitty-choices",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/50459_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g123",
+  "nome": "Decolar Corp",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/decolar-corp",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/75599_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g124",
+  "nome": "Destinies",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/destinies",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/22860_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g125",
+  "nome": "Detective: A Modern Crime Boardgame",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/detective-a-modern-crime-boardgame",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/13198_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g126",
+  "nome": "Dice Colony",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/dice-colony",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/38722_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g127",
+  "nome": "Dice Forge",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/dice-forge",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/12685_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g128",
+  "nome": "Die Macher",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/die-macher",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/767_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g129",
+  "nome": "Die Säulen der Erde: das Kartenspiel",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/die-saulen-der-erde-das-kartenspiel",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/12618_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g130",
+  "nome": "Dinosaur Island",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/dinosaur-island",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/13008_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g131",
+  "nome": "Disney Villainous: Introduction to Evil",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/disney-villainous-introduction-to-evil",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/58139_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g132",
+  "nome": "Distilled",
+  "donos": [
+   "majestic234",
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/distilled",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/32279_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g133",
+  "nome": "Divicity",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/divicity",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/50392_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g134",
+  "nome": "Dobro",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/dobro",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/32777_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g135",
+  "nome": "Dobro: Pixar",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/dobro-pixar",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/66291_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g136",
+  "nome": "Doggerland",
+  "donos": [
+   "palomolh",
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/doggerland",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/54714_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g137",
+  "nome": "Dogo Dash",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/dogo-dash",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/26757_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g138",
+  "nome": "Dorfromantik: The Board Game",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/dorfromantik-the-board-game",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/40471_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g139",
+  "nome": "Dorfromantik: The Duel",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/dorfromantik-the-duel",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/55924_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g140",
+  "nome": "Draft & Write Records",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/draft-write-records",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/41303_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g141",
+  "nome": "Drag Slay",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/drag-slay",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/77068_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g142",
+  "nome": "Dune: Betrayal",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/dune-betrayal",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/35557_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g143",
+  "nome": "Dune: House Secrets",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/dune-house-secrets",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/31845_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g144",
+  "nome": "Dune: Imperium",
+  "donos": [
+   "palomolh",
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/dune-imperium",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/25941_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g145",
+  "nome": "Dune: Imperium – Uprising",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/dune-imperium-uprising",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/56534_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g146",
+  "nome": "Dungeon Rummy",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/dungeon-rummy",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/66565_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g147",
+  "nome": "Dungeons & Dragons (5th Edition) - D&D Starter Set Rulebook",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/dungeons-dragons-5th-edition-d-d-starter-set-rulebook",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/37212_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g148",
+  "nome": "É Top!?: Natureza",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/e-top-natureza",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/36058_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g149",
+  "nome": "Echoes of Time",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/echoes-of-time",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/80227_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g150",
+  "nome": "Eclipse: Second Dawn for the Galaxy",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/eclipse-second-dawn-for-the-galaxy",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/17363_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g151",
+  "nome": "Elder Sign",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/elder-sign",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/30_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g152",
+  "nome": "Emberheart",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/emberheart",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/81886_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g153",
+  "nome": "Emboscados",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/emboscados",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/24556_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g154",
+  "nome": "Eminent Domain: Battlecruisers",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/eminent-domain-battlecruisers",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/7810_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g155",
+  "nome": "Eminent Domain: Microcosm",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/eminent-domain-microcosm",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/7945_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g156",
+  "nome": "Encantados (3ª Edição)",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/encantados-3-edicao",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/31030_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g157",
+  "nome": "Encyclopedia",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/encyclopedia",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/35518_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g158",
+  "nome": "Endeavor: Deep Sea",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/endeavor-deep-sea",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/39229_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g159",
+  "nome": "Endless Winter: Paleoamericans",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/endless-winter-paleoamericans",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/26398_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g160",
+  "nome": "Entre Linhas (Cross Clues)",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/entre-linhas-cross-clues",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/25758_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g161",
+  "nome": "Escalation!",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/escalation",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/667_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g162",
+  "nome": "Escape Plan",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/escape-plan",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/15775_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g163",
+  "nome": "Euphoria: Build a Better Dystopia",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/euphoria-build-a-better-dystopia",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/776_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g164",
+  "nome": "Evacuation",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/evacuation",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/50472_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g165",
+  "nome": "Evenfall",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/evenfall",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/56707_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g166",
+  "nome": "Everdell",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/everdell",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/16788_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g167",
+  "nome": "Ex Libris",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/ex-libris",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/14066_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g168",
+  "nome": "Excavation Earth",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/excavation-earth",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/24516_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g169",
+  "nome": "Ezra and Nehemiah",
+  "donos": [
+   "palomolh",
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/ezra-and-nehemiah",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/51774_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g170",
+  "nome": "Fantastic Factories",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/fantastic-factories",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/18461_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g171",
+  "nome": "Fantasy Realms",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/fantasy-realms",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/16230_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g172",
+  "nome": "Fearless",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/fearless",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/80878_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g173",
+  "nome": "Federation",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/federation",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/33145_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g174",
+  "nome": "Feljong",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/feljong",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/66494_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g175",
+  "nome": "Feudum",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/feudum",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/8354_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g176",
+  "nome": "Fibonachos",
+  "donos": [
+   "TheOne",
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/fibonachos",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/44280_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g177",
+  "nome": "Fibonachos (2ª Edição)",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/fibonachos-2-edicao",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/71900_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g178",
+  "nome": "Final Girl",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/final-girl",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/34534_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g179",
+  "nome": "Fine Line",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/fine-line",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/79472_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g180",
+  "nome": "Fishing",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/fishing",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/64928_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g181",
+  "nome": "Five Tribes: The Djinns of Naqala",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/five-tribes-the-djinns-of-naqala",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/5058_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g182",
+  "nome": "Flamecraft - Deluxe Edition",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/flamecraft-deluxe-edition",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/63548_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g183",
+  "nome": "Flip 7",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/flip-7",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/66639_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g184",
+  "nome": "Flip 7: Liquid Death",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/flip-7-liquid-death",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/87076_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g185",
+  "nome": "FlipToons",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/fliptoons",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/80051_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g186",
+  "nome": "Fliptown",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/fliptown",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/35952_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g187",
+  "nome": "Fog of Love",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/fog-of-love",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/9158_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g188",
+  "nome": "Food Chain Island",
+  "donos": [
+   "TheOne",
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/food-chain-island",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/28998_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g189",
+  "nome": "Food Chain Magnate",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/food-chain-magnate",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/8581_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g190",
+  "nome": "Foodie Forest",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/foodie-forest",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/44851_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g191",
+  "nome": "Fora de Ordem",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/fora-de-ordem",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/35977_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g192",
+  "nome": "Forage: A 9 card solitaire game",
+  "donos": [
+   "reisfelipejr",
+   "TheOne",
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/forage-a-9-card-solitaire-game",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/47829_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g193",
+  "nome": "Forbidden Stars",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/forbidden-stars",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/7250_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g194",
+  "nome": "Forest Shuffle",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/forest-shuffle",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/54495_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g195",
+  "nome": "Frank's Zoo",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/frank-s-zoo",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/1212_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g196",
+  "nome": "Frostpunk: The Board Game",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/frostpunk-the-board-game",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/26078_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g197",
+  "nome": "FTW?!",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/ftw",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/56559_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g198",
+  "nome": "Fuji Flush",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/fuji-flush",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/11301_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g199",
+  "nome": "Fungi (Morels)",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/fungi-morels",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/333_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g200",
+  "nome": "Furnace",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/furnace",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/25643_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g201",
+  "nome": "Fury of Dracula (third/fourth edition)",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/fury-of-dracula-third-fourth-edition",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/8360_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g202",
+  "nome": "G.I. JOE Deck-Building Game",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/g-i-joe-deck-building-game",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/32555_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g203",
+  "nome": "Gaia Project",
+  "donos": [
+   "reisfelipejr",
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/gaia-project",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/13749_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g204",
+  "nome": "Gaivotas",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/gaivotas",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/60107_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g205",
+  "nome": "Galactic Cruise",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/galactic-cruise",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/53972_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g206",
+  "nome": "Galileo Galilei",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/galileo-galilei",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/61070_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g207",
+  "nome": "Game of Thrones: The Iron Throne",
+  "donos": [
+   "palomolh",
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/game-of-thrones-the-iron-throne",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/11139_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g208",
+  "nome": "Ghosts of Christmas",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/ghosts-of-christmas",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/35282_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g209",
+  "nome": "Gizmos",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/gizmos",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/17906_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g210",
+  "nome": "Gloomhaven: Buttons & Bugs",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/gloomhaven-buttons-bugs",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/55135_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g211",
+  "nome": "Glory to Rome",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/glory-to-rome",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/652_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g212",
+  "nome": "Golem",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/golem",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/24141_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g213",
+  "nome": "Great Western Trail: Argentina",
+  "donos": [
+   "majestic234",
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/great-western-trail-argentina",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/31173_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g214",
+  "nome": "Great Western Trail: New Zealand",
+  "donos": [
+   "palomolh",
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/great-western-trail-new-zealand",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/31174_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g215",
+  "nome": "Great Western Trail: Second Edition",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/great-western-trail-second-edition",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/29783_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g216",
+  "nome": "Gutenberg",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/gutenberg",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/33004_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g217",
+  "nome": "Hagakure",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/hagakure",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/32716_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g218",
+  "nome": "Hallertau",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/hallertau",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/24560_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g219",
+  "nome": "Halli Galli",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/halli-galli",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/3882_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g220",
+  "nome": "Hamlet: The Village Building Game",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/hamlet-the-village-building-game",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/35345_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g221",
+  "nome": "Hanabi",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/hanabi",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/570_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g222",
+  "nome": "Hanamikoji",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/hanamikoji",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/11604_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g223",
+  "nome": "Hansa Teutonica: Big Box",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/hansa-teutonica-big-box",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/24553_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g224",
+  "nome": "Harmonies",
+  "donos": [
+   "reisfelipejr",
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/harmonies",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/63306_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g225",
+  "nome": "Hegemony: Lead Your Class to Victory – Extended Edition",
+  "donos": [
+   "TheOne",
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/hegemony-lead-your-class-to-victory-extended-edition",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/33119_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g226",
+  "nome": "Here to Slay",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/here-to-slay",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/25231_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g227",
+  "nome": "Heróis de San Villano",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/herois-de-san-villano",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/16713_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g228",
+  "nome": "High Frontier 4 All",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/high-frontier-4-all",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/23070_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g229",
+  "nome": "High Society",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/high-society",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/4447_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g230",
+  "nome": "Hippo",
+  "donos": [
+   "TheOne",
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/hippo",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/15853_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g231",
+  "nome": "Hippocrates",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/hippocrates",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/30935_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g232",
+  "nome": "Histórias de Pescador - Edição Mini",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/historias-de-pescador-edicao-mini",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/26469_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g233",
+  "nome": "Hitster",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/hitster",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/37895_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g234",
+  "nome": "Hive Pocket",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/hive-pocket",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/6438_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g235",
+  "nome": "Homem-Morcego: O Jogo de Cartas",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/homem-morcego-o-jogo-de-cartas",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/72172_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g236",
+  "nome": "Horrified: American Monsters",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/horrified-american-monsters",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/32558_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g237",
+  "nome": "House of Fado",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/house-of-fado",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/52317_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g238",
+  "nome": "How DARE you?",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/how-dare-you",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/55059_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g239",
+  "nome": "Hygge",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/hygge",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/74624_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g240",
+  "nome": "Ierusalem: Anno Domini",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/ierusalem-anno-domini",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/41869_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g241",
+  "nome": "Iki",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/iki",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/8153_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g242",
+  "nome": "Imperial Miners",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/imperial-miners",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/56578_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g243",
+  "nome": "Imperium: Classics",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/imperium-classics",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/25928_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g244",
+  "nome": "Imperium: Legends",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/imperium-legends",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/25929_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g245",
+  "nome": "Indonesia",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/indonesia",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/1628_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g246",
+  "nome": "Indulgence",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/indulgence",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/14278_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g247",
+  "nome": "Inventions: Evolution of Ideas",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/inventions-evolution-of-ideas",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/39754_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g248",
+  "nome": "Isle of Skye: From Chieftain to King",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/isle-of-skye-from-chieftain-to-king",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/7731_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g249",
+  "nome": "Ito",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/ito",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/57964_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g250",
+  "nome": "Jardim Encantado",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/jardim-encantado",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/79570_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g251",
+  "nome": "Jester",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/jester",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/8262_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g252",
+  "nome": "John Company: Second Edition",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/john-company-second-edition",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/30538_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g253",
+  "nome": "Jungo",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/jungo",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/69655_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g254",
+  "nome": "Kakerlakenpoker (Cockroach Poker)",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/kakerlakenpoker-cockroach-poker",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/1387_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g255",
+  "nome": "Kanban EV",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/kanban-ev",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/23123_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g256",
+  "nome": "Kanban Menu",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/kanban-menu",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/57551_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g257",
+  "nome": "Kariba",
+  "donos": [
+   "TheOne",
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/kariba",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/18839_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g258",
+  "nome": "Karvi",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/karvi",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/58198_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g259",
+  "nome": "Keep the Heroes Out!",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/keep-the-heroes-out",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/31237_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g260",
+  "nome": "Kemet",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/kemet",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/304_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g261",
+  "nome": "KeyForge: Age of Ascension",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/keyforge-age-of-ascension",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/21254_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g262",
+  "nome": "KeyForge: Worlds Collide",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/keyforge-worlds-collide",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/23783_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g263",
+  "nome": "Khôra: Rise of an Empire",
+  "donos": [
+   "majestic234",
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/khora-rise-of-an-empire",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/30979_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g264",
+  "nome": "Kingdom Builder: Big Box (Second Edition)",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/kingdom-builder-big-box-second-edition",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/2889_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g265",
+  "nome": "Kingdom Crossing",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/kingdom-crossing",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/78512_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g266",
+  "nome": "Kitsu",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/kitsu",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/72641_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g267",
+  "nome": "Knock, Knock! Dungeon!",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/knock-knock-dungeon",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/36045_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g268",
+  "nome": "Kodama: The Tree Spirits",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/kodama-the-tree-spirits",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/9174_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g269",
+  "nome": "Kokeshi",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/kokeshi",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/63332_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g270",
+  "nome": "Kutná Hora: The City of Silver",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/kutna-hora-the-city-of-silver",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/51301_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g271",
+  "nome": "L.A.M.A. Party Edition",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/l-a-m-a-party-edition",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/26261_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g272",
+  "nome": "Lata",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/lata",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/49575_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g273",
+  "nome": "Le Havre",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/le-havre",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/95_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g274",
+  "nome": "Legend of the Five Rings: The Card Game",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/legend-of-the-five-rings-the-card-game",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/13147_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g275",
+  "nome": "LEGO Monkey Palace",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/lego-monkey-palace",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/62773_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g276",
+  "nome": "Lemur",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/lemur",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/65730_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g277",
+  "nome": "Light Rail",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/light-rail",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/6127_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g278",
+  "nome": "Linko! (Abluxxen)",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/linko-abluxxen",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/5870_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g279",
+  "nome": "Lisboa",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/lisboa",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/11478_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g280",
+  "nome": "Lobo 77",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/lobo-77",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/4760_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g281",
+  "nome": "Loira do Banheiro",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/loira-do-banheiro",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/64098_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g282",
+  "nome": "London: Second Edition",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/london-second-edition",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/15814_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g283",
+  "nome": "Looot",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/looot",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/61866_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g284",
+  "nome": "LOOP",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/loop",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/60755_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g285",
+  "nome": "Love Letter: Princess Princess Ever After",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/love-letter-princess-princess-ever-after",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/34899_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g286",
+  "nome": "Lovelace & Babbage",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/lovelace-babbage",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/20927_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g287",
+  "nome": "Luna",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/luna",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/1437_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g288",
+  "nome": "Luna Maris",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/luna-maris",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/13280_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g289",
+  "nome": "Lunar Rush",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/lunar-rush",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/38122_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g290",
+  "nome": "Mage Knight: Ultimate Edition",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/mage-knight-ultimate-edition",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/17559_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g291",
+  "nome": "Malabares",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/malabares",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/77077_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g292",
+  "nome": "Mamutensão",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/mamutensao",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/57912_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g293",
+  "nome": "Maps of Misterra",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/maps-of-misterra",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/45695_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g294",
+  "nome": "Marajoara",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/marajoara",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/54146_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g295",
+  "nome": "Marrakesh",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/marrakesh",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/32973_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g296",
+  "nome": "Marvel Champions: The Card Game",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/marvel-champions-the-card-game",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/22750_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g297",
+  "nome": "Marvel United",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/marvel-united",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/24157_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g298",
+  "nome": "Marvel United: X-Men",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/marvel-united-x-men",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/30987_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g299",
+  "nome": "Marvel: Remix",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/marvel-remix",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/35565_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g300",
+  "nome": "Maskmen",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/maskmen",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/12103_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g301",
+  "nome": "Matryoshka (Segunda Edição)",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/matryoshka-segunda-edicao",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/66448_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g302",
+  "nome": "Medievalia",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/medievalia",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/11986_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g303",
+  "nome": "Meio",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/meio",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/69894_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g304",
+  "nome": "Men-Nefer",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/men-nefer",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/62546_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g305",
+  "nome": "Merchants of Magick: A Set a Watch Tale",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/merchants-of-magick-a-set-a-watch-tale",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/31335_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g306",
+  "nome": "Merchants of the Dark Road",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/merchants-of-the-dark-road",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/24785_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g307",
+  "nome": "MESOS",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/mesos",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/66260_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g308",
+  "nome": "Messina 1347",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/messina-1347",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/31811_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g309",
+  "nome": "Mille Fiori",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/mille-fiori",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/33041_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g310",
+  "nome": "Mind MGMT: The Psychic Espionage “Game.”",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/mind-mgmt-the-psychic-espionage-game",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/33046_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g311",
+  "nome": "Mindbug: First Contact",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/mindbug-first-contact",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/33283_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g312",
+  "nome": "Mino Dice",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/mino-dice",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/40894_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g313",
+  "nome": "Minos: Dawn of the Bronze Age",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/minos-dawn-of-the-bronze-age",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/67129_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g314",
+  "nome": "Mirianth Wars",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/mirianth-wars",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/43317_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g315",
+  "nome": "Mistborn: The Deckbuilding Game",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/mistborn-the-deckbuilding-game",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/68024_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g316",
+  "nome": "Misty",
+  "donos": [
+   "majestic234",
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/misty",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/25876_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g317",
+  "nome": "MLEM: Space Agency",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/mlem-space-agency",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/52173_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g318",
+  "nome": "Modern Art Card Game",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/modern-art-card-game",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/25186_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g319",
+  "nome": "Mojo",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/mojo",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/63006_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g320",
+  "nome": "MonsDRAWsity",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/monsdrawsity",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/27958_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g321",
+  "nome": "Motor City",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/motor-city",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/35373_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g322",
+  "nome": "Mü & more: Revised Edition",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/m-more-revised-edition",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/71641_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g323",
+  "nome": "Mustachio",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/mustachio",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/65951_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g324",
+  "nome": "Nana",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/nana",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/54801_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g325",
+  "nome": "Nanatoridori",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/nanatoridori",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/57744_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g326",
+  "nome": "Newton",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/newton",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/19010_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g327",
+  "nome": "Nidavellir",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/nidavellir",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/26492_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g328",
+  "nome": "Ninja Taisen",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/ninja-taisen",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/13132_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g329",
+  "nome": "Nippon: Zaibatsu - Emperor's Edition",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/nippon-zaibatsu-emperor-s-edition",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/85965_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g330",
+  "nome": "NObjects",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/nobjects",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/31741_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g331",
+  "nome": "Nokosu Dice",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/nokosu-dice",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/31267_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g332",
+  "nome": "Nucleum",
+  "donos": [
+   "majestic234",
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/nucleum",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/56124_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g333",
+  "nome": "Oath: Chronicles of Empire and Exile",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/oath-chronicles-of-empire-and-exile",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/24137_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g334",
+  "nome": "Odin",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/odin",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/61138_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g335",
+  "nome": "Oh My Brain",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/oh-my-brain",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/36562_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g336",
+  "nome": "On Mars",
+  "donos": [
+   "palomolh",
+   "reisfelipejr",
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/on-mars",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/18931_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g337",
+  "nome": "ONDA",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/onda",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/63843_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g338",
+  "nome": "One Night Ultimate Alien",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/one-night-ultimate-alien",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/14799_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g339",
+  "nome": "Only Murders in the Building: The Game",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/only-murders-in-the-building-the-game",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/78087_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g340",
+  "nome": "Open",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/open",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/47276_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g341",
+  "nome": "Orléans",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/orleans",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/6550_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g342",
+  "nome": "Orloj: The Prague Astronomical Clock",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/orloj-the-prague-astronomical-clock",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/80826_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g343",
+  "nome": "Otys",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/otys",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/15016_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g344",
+  "nome": "Overseers",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/overseers",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/11505_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g345",
+  "nome": "Paladins of the West Kingdom",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/paladins-of-the-west-kingdom",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/20580_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g346",
+  "nome": "Paleo",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/paleo",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/26212_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g347",
+  "nome": "Palm Island",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/palm-island",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/17448_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g348",
+  "nome": "Pampero",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/pampero",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/35289_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g349",
+  "nome": "Panda Panda",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/panda-panda",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/63449_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g350",
+  "nome": "Panda Rei",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/panda-rei",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/66310_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g351",
+  "nome": "Paper Tales",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/paper-tales",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/15567_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g352",
+  "nome": "Parade",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/parade",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/5533_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g353",
+  "nome": "PARADOMINETOR",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/paradominetor",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/65837_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g354",
+  "nome": "Passaporte Mundo",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/passaporte-mundo",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/62987_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g355",
+  "nome": "Pataquada",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/pataquada",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/54804_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g356",
+  "nome": "Patchwork",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/patchwork",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/6876_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g357",
+  "nome": "Pax Emancipation",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/pax-emancipation",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/17907_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g358",
+  "nome": "Pescado Novo",
+  "donos": [
+   "TheOne",
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/pescado-novo",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/45186_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g359",
+  "nome": "Pest",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/pest",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/41382_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g360",
+  "nome": "Pi mal Pflaumen",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/pi-mal-pflaumen",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/9319_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g361",
+  "nome": "Pipoca",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/pipoca",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/79772_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g362",
+  "nome": "Pirates of Maracaibo",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/pirates-of-maracaibo",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/56636_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g363",
+  "nome": "Planet etuC",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/planet-etuc",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/47279_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g364",
+  "nome": "Planet Unknown",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/planet-unknown",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/23164_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g365",
+  "nome": "Pompiers!",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/pompiers",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/43844_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g366",
+  "nome": "Port Royal",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/port-royal",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/5639_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g367",
+  "nome": "Port Royal Unterwegs!",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/port-royal-unterwegs",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/11460_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g368",
+  "nome": "Pot de Vin",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/pot-de-vin",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/15127_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g369",
+  "nome": "Potato Man",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/potato-man",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/7623_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g370",
+  "nome": "Power Grid",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/power-grid",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/111_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g371",
+  "nome": "Power Rangers: Deck-Building Game",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/power-rangers-deck-building-game",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/26665_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g372",
+  "nome": "Praga Caput Regni",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/praga-caput-regni",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/24726_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g373",
+  "nome": "Prey",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/prey",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/68959_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g374",
+  "nome": "Prime Number Lv.0",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/prime-number-lv-0",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/47280_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g375",
+  "nome": "Protocolo Scintilla",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/protocolo-scintilla",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/68442_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g376",
+  "nome": "Puerto Rico 1897: Special Edition",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/puerto-rico-1897-special-edition",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/63556_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g377",
+  "nome": "Pulsar 2849",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/pulsar-2849",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/15426_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g378",
+  "nome": "Q.E. (Quantitative Easing)",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/q-e-quantitative-easing",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/15584_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g379",
+  "nome": "Qu4to (Quato)",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/qu4to-quato",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/62697_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g380",
+  "nome": "Quack-Quack, Corrupt Ducks",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/quack-quack-corrupt-ducks",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/47281_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g381",
+  "nome": "Quacks",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/quacks",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/18005_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g382",
+  "nome": "Quadropolis",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/quadropolis",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/9799_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g383",
+  "nome": "Quem Vai?",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/quem-vai",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/12123_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g384",
+  "nome": "Quick Stop",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/quick-stop",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/77907_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g385",
+  "nome": "Quorum",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/quorum",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/71891_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g386",
+  "nome": "Race for the Galaxy",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/race-for-the-galaxy",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/47_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g387",
+  "nome": "Ragusa",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/ragusa",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/18994_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g388",
+  "nome": "Railroad Tiles",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/railroad-tiles",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/64387_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g389",
+  "nome": "Ratjack",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/ratjack",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/68018_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g390",
+  "nome": "Rats of Wistar",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/rats-of-wistar",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/57141_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g391",
+  "nome": "Rebel Princess (2nd Edition)",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/rebel-princess-2nd-edition",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/80823_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g392",
+  "nome": "Rebuilding Seattle",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/rebuilding-seattle",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/41067_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g393",
+  "nome": "Red Alice and the Black Knight",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/red-alice-and-the-black-knight",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/65239_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g394",
+  "nome": "Red Outpost",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/red-outpost",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/23949_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g395",
+  "nome": "Red Rising",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/red-rising",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/29115_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g396",
+  "nome": "Red7",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/red7",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/6635_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g397",
+  "nome": "Resafa",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/resafa",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/65156_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g398",
+  "nome": "Revive",
+  "donos": [
+   "reisfelipejr",
+   "majestic234",
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/revive",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/35051_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g399",
+  "nome": "Rick and Morty: Total Rickall Card Game",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/rick-and-morty-total-rickall-card-game",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/10412_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g400",
+  "nome": "RISK: StarCraft Collector's Edition",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/risk-starcraft-collector-s-edition",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/3927_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g401",
+  "nome": "Robinson Crusoe: Adventures on the Cursed Island",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/robinson-crusoe-adventures-on-the-cursed-island",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/366_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g402",
+  "nome": "Rolling Ranch: Celeiros & Rebanhos",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/rolling-ranch-celeiros-rebanhos",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/66307_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g403",
+  "nome": "Romi Rami",
+  "donos": [
+   "TheOne",
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/romi-rami",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/53985_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g404",
+  "nome": "Root",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/root",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/15950_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g405",
+  "nome": "Run, Cowboy, Run!",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/run-cowboy-run",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/59769_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g406",
+  "nome": "Rush M.D.",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/rush-m-d",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/22736_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g407",
+  "nome": "S'Crew UP: Bots & Nuts",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/s-crew-up-bots-nuts",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/26165_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g408",
+  "nome": "Saboteur",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/saboteur",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/620_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g409",
+  "nome": "Sagrada",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/sagrada",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/11168_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g410",
+  "nome": "Sail or Die",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/sail-or-die",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/68141_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g411",
+  "nome": "Saltfjord",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/saltfjord",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/68220_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g412",
+  "nome": "Salton Sea",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/salton-sea",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/58767_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g413",
+  "nome": "Salty",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/salty",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/57150_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g414",
+  "nome": "Samoa",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/samoa",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/26393_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g415",
+  "nome": "Sankoré: The Pride of Mansa Musa",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/sankore-the-pride-of-mansa-musa",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/49627_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g416",
+  "nome": "Sanssouci",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/sanssouci",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/8073_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g417",
+  "nome": "Sapotagem",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/sapotagem",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/8791_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g418",
+  "nome": "Say Bye to the Villains",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/say-bye-to-the-villains",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/4255_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g419",
+  "nome": "Schadenfreude",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/schadenfreude",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/52006_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g420",
+  "nome": "Scooby Doo: Hotel Mal Assombrado",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/scooby-doo-hotel-mal-assombrado",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/66338_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g421",
+  "nome": "Scout",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/scout",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/32897_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g422",
+  "nome": "Scythe",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/scythe",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/6764_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g423",
+  "nome": "Sea Salt & Paper",
+  "donos": [
+   "majestic234",
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/sea-salt-paper",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/38286_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g424",
+  "nome": "Seas of Strife",
+  "donos": [
+   "TheOne",
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/seas-of-strife",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/52320_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g425",
+  "nome": "Sentinels of the Multiverse",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/sentinels-of-the-multiverse",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/181_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g426",
+  "nome": "Serealian",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/serealian",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/60587_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g427",
+  "nome": "SETI: Search for Extraterrestrial Intelligence",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/seti-search-for-extraterrestrial-intelligence",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/64469_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g428",
+  "nome": "SETUP",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/setup",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/56488_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g429",
+  "nome": "Shamans",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/shamans",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/30564_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g430",
+  "nome": "Sherlock Express",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/sherlock-express",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/22052_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g431",
+  "nome": "Shift: The Single Card CCG",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/shift-the-single-card-ccg",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/2632_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g432",
+  "nome": "Shinkansen: Zero Kei",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/shinkansen-zero-kei",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/32785_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g433",
+  "nome": "Shipyard (Second Edition)",
+  "donos": [
+   "TheOne",
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/shipyard-second-edition",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/56584_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g434",
+  "nome": "Shock! Knights & Poisons",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/shock-knights-poisons",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/58099_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g435",
+  "nome": "Shuhari",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/shuhari",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/59668_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g436",
+  "nome": "Sid Meier's Civilization: A New Dawn",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/sid-meier-s-civilization-a-new-dawn",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/14926_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g437",
+  "nome": "Side Quest: Nemesis",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/side-quest-nemesis",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/53128_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g438",
+  "nome": "Sidereal Confluence: Remastered Edition",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/sidereal-confluence-remastered-edition",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/26221_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g439",
+  "nome": "Silk",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/silk",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/19577_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g440",
+  "nome": "Similo: The Lord of the Rings",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/similo-the-lord-of-the-rings",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/58281_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g441",
+  "nome": "Sirvam a Rainha",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/sirvam-a-rainha",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/41376_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g442",
+  "nome": "Sirvam o Rei",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/sirvam-o-rei",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/23294_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g443",
+  "nome": "SixStix",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/sixstix",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/31747_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g444",
+  "nome": "SizeUp",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/sizeup",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/31742_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g445",
+  "nome": "Skull King: Grandpa Beck's Edition",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/skull-king-grandpa-beck-s-edition",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/32917_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g446",
+  "nome": "Skulls of Sedlec",
+  "donos": [
+   "majestic234",
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/skulls-of-sedlec",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/28999_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g447",
+  "nome": "Sky Team",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/sky-team",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/51377_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g448",
+  "nome": "Sky Towers",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/sky-towers",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/77287_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g449",
+  "nome": "Skymines",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/skymines",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/35672_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g450",
+  "nome": "Slay the Spire: The Board Game",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/slay-the-spire-the-board-game",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/41866_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g451",
+  "nome": "Sleeping Gods",
+  "donos": [
+   "TheOne",
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/sleeping-gods",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/21032_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g452",
+  "nome": "Small World",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/small-world",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/44_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g453",
+  "nome": "Smitten",
+  "donos": [
+   "reisfelipejr",
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/smitten",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/40474_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g454",
+  "nome": "Sokushinbutsu!",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/sokushinbutsu",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/77062_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g455",
+  "nome": "Space Base",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/space-base",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/17908_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g456",
+  "nome": "Space Explorers",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/space-explorers",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/19981_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g457",
+  "nome": "Spartacus: A Game of Blood and Treachery",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/spartacus-a-game-of-blood-and-treachery",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/124_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g458",
+  "nome": "Speed Cups",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/speed-cups",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/6345_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g459",
+  "nome": "Spicy",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/spicy",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/25219_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g460",
+  "nome": "Spirit Island",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/spirit-island",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/10959_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g461",
+  "nome": "Splendor",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/splendor",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/3607_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g462",
+  "nome": "Splendor: Marvel",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/splendor-marvel",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/23683_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g463",
+  "nome": "Splito",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/splito",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/36940_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g464",
+  "nome": "Sprawlopolis",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/sprawlopolis",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/18457_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g465",
+  "nome": "St. Patrick",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/st-patrick",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/40473_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g466",
+  "nome": "Star Realms",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/star-realms",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/4069_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g467",
+  "nome": "Star Wars Villainous: Power of the Dark Side",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/star-wars-villainous-power-of-the-dark-side",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/35344_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g468",
+  "nome": "Star Wars: Destiny",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/star-wars-destiny",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/12185_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g469",
+  "nome": "Star Wars: Destiny – General Grievous Starter Set",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/star-wars-destiny-general-grievous-starter-set",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/23654_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g470",
+  "nome": "Star Wars: Destiny – Obi-Wan Kenobi Starter Set",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/star-wars-destiny-obi-wan-kenobi-starter-set",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/23653_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g471",
+  "nome": "Star Wars: Destiny – Two-Player Game",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/star-wars-destiny-two-player-game",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/15148_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g472",
+  "nome": "Star Wars: Jabba's Palace – A Love Letter Game",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/star-wars-jabba-s-palace-a-love-letter-game",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/34608_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g473",
+  "nome": "Star Wars: The Deckbuilding Game",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/star-wars-the-deckbuilding-game",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/42672_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g474",
+  "nome": "Stardew Valley: The Board Game",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/stardew-valley-the-board-game",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/30270_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g475",
+  "nome": "StarDriven: Gateway",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/stardriven-gateway",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/71414_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g476",
+  "nome": "Startups",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/startups",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/14770_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g477",
+  "nome": "Stellar Drift: Pull & Write",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/stellar-drift-pull-write",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/66729_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g478",
+  "nome": "Stich-Meister",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/stich-meister",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/15482_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g479",
+  "nome": "StickUp",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/stickup",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/31744_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g480",
+  "nome": "Stonks",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/stonks",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/52442_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g481",
+  "nome": "Summoner Wars: Master Set",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/summoner-wars-master-set",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/511_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g482",
+  "nome": "SUMO",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/sumo",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/61797_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g483",
+  "nome": "Super Mega Lucky Box",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/super-mega-lucky-box",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/34971_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g484",
+  "nome": "Supernova: Um Novo Êxodo",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/supernova-um-novo-exodo",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/7700_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g485",
+  "nome": "Sushi Go: Party!",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/sushi-go-party",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/9787_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g486",
+  "nome": "SWAT!",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/swat",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/79080_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g487",
+  "nome": "Taco Cat Goat Cheese Pizza",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/taco-cat-goat-cheese-pizza",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/24269_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g488",
+  "nome": "Taco Cat Goat Cheese Pizza: On The Flip Side",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/taco-cat-goat-cheese-pizza-on-the-flip-side",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/35689_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g489",
+  "nome": "TAKE Trick Old Man",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/take-trick-old-man",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/70996_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g490",
+  "nome": "Tapestry",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/tapestry",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/22855_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g491",
+  "nome": "Tatsu (I)",
+  "donos": [
+   "majestic234",
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/tatsu-i",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/39882_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g492",
+  "nome": "Tellstones: King's Gambit",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/tellstones-king-s-gambit",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/25904_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g493",
+  "nome": "Teotihuacan: City of Gods – Deluxe Master Set",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/teotihuacan-city-of-gods-deluxe-master-set",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/41811_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g494",
+  "nome": "Terra Mystica",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/terra-mystica",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/404_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g495",
+  "nome": "Terra Mystica: Big Box 2022",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/terra-mystica-big-box-2022",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/35379_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g496",
+  "nome": "Terra Nova",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/terra-nova",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/36328_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g497",
+  "nome": "Terraforming Mars",
+  "donos": [
+   "reisfelipejr",
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/terraforming-mars",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/8858_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g498",
+  "nome": "TEVolution",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/tevolution",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/65863_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g499",
+  "nome": "Texas Hold It",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/texas-hold-it",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/75044_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g500",
+  "nome": "The Bloody Inn",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/the-bloody-inn",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/8496_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g501",
+  "nome": "The Bottle Imp",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/the-bottle-imp",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/7190_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g502",
+  "nome": "The Builders: Antiquity",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/the-builders-antiquity",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/7540_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g503",
+  "nome": "The Builders: Middle Ages",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/the-builders-middle-ages",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/3569_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g504",
+  "nome": "The Castles of Burgundy: Special Edition",
+  "donos": [
+   "majestic234",
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/the-castles-of-burgundy-special-edition",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/36265_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g505",
+  "nome": "The Dwarf King",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/the-dwarf-king",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/5397_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g506",
+  "nome": "The Fellowship of the Ring: Trick-Taking Game",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/the-fellowship-of-the-ring-trick-taking-game",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/71049_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g507",
+  "nome": "The Fox in the Forest",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/the-fox-in-the-forest",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/13201_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g508",
+  "nome": "The Gang",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/the-gang",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/61935_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g509",
+  "nome": "The Guild of Merchant Explorers",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/the-guild-of-merchant-explorers",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/35559_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g510",
+  "nome": "The Initiative",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/the-initiative",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/28716_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g511",
+  "nome": "The King is Dead (2nd Edition)",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/the-king-is-dead-2nd-edition",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/26002_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g512",
+  "nome": "The Lord of the Rings: Duel for Middle-Earth",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/the-lord-of-the-rings-duel-for-middle-earth",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/65868_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g513",
+  "nome": "The Lord of the Rings: Journeys in Middle-Earth",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/the-lord-of-the-rings-journeys-in-middle-earth",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/20829_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g514",
+  "nome": "The Lord of the Rings: The Card Game – Revised Core Set",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/the-lord-of-the-rings-the-card-game-revised-core-set",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/33148_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g515",
+  "nome": "The Lord of the Rings: The Two Towers – Trick-Taking Game",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/the-lord-of-the-rings-the-two-towers-trick-taking-game",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/81993_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g516",
+  "nome": "The Manhattan Project: Chain Reaction",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/the-manhattan-project-chain-reaction",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/9888_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g517",
+  "nome": "The Old King's Crown",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/the-old-king-s-crown",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/52667_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g518",
+  "nome": "The Overtime",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/the-overtime",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/64818_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g519",
+  "nome": "The Red Cathedral",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/the-red-cathedral",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/25605_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g520",
+  "nome": "The Resistance",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/the-resistance",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/780_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g521",
+  "nome": "The Search for Planet X",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/the-search-for-planet-x",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/25254_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g522",
+  "nome": "The Speicherstadt",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/the-speicherstadt",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/673_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g523",
+  "nome": "The Thing: The Boardgame",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/the-thing-the-boardgame",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/25957_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g524",
+  "nome": "The Vale of Eternity",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/the-vale-of-eternity",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/55088_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g525",
+  "nome": "The Voyages of Marco Polo",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/the-voyages-of-marco-polo",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/7333_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g526",
+  "nome": "This Game is Killer: Alien on Board",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/this-game-is-killer-alien-on-board",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/63934_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g527",
+  "nome": "This War of Mine: The Board Game",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/this-war-of-mine-the-board-game",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/10595_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g528",
+  "nome": "Ticket to Ride: Europe",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/ticket-to-ride-europe",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/133_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g529",
+  "nome": "Ticket to Ride: New York",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/ticket-to-ride-new-york",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/18431_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g530",
+  "nome": "Tighee",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/tighee",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/56075_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g531",
+  "nome": "Tiletum",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/tiletum",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/35666_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g532",
+  "nome": "Time's Up! Party",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/time-s-up-party",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/41162_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g533",
+  "nome": "Timeline: Classic",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/timeline-classic",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/20335_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g534",
+  "nome": "Timeline: Twist",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/timeline-twist",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/55307_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g535",
+  "nome": "Tindahan",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/tindahan",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/49800_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g536",
+  "nome": "Tindaya",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/tindaya",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/33333_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g537",
+  "nome": "Tiny Epic Dungeons",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/tiny-epic-dungeons",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/29986_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g538",
+  "nome": "Tiny Epic Zombies",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/tiny-epic-zombies",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/16958_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g539",
+  "nome": "Tiny Towns",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/tiny-towns",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/20450_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g540",
+  "nome": "Tokaido: Deluxe Edition",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/tokaido-deluxe-edition",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/9500_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g541",
+  "nome": "Tokkuri Taking",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/tokkuri-taking",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/66339_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g542",
+  "nome": "Tomalo Vos (This Game Will Make You Drink)",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/tomalo-vos-this-game-will-make-you-drink",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/36319_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g543",
+  "nome": "Traders of Osaka",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/traders-of-osaka",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/6980_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g544",
+  "nome": "Treasure Island",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/treasure-island",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/16879_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g545",
+  "nome": "Trick & Snipers",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/trick-snipers",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/66586_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g546",
+  "nome": "Trick o' Roof",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/trick-o-roof",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/59863_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g547",
+  "nome": "Trick of the Rails",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/trick-of-the-rails",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/11837_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g548",
+  "nome": "Trick-Taking: The Trick-Taking Game",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/trick-taking-the-trick-taking-game",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/52246_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g549",
+  "nome": "Trickerion: Collector's Edition",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/trickerion-collector-s-edition",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/23628_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g550",
+  "nome": "Tricky Time Crisis",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/tricky-time-crisis",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/58329_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g551",
+  "nome": "Trinket Trove",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/trinket-trove",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/79535_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g552",
+  "nome": "Trio",
+  "donos": [
+   "majestic234",
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/trio",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/50577_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g553",
+  "nome": "Trismegistus: New Edition",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/trismegistus-new-edition",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/79648_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g554",
+  "nome": "Trismegistus: Roll & Write",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/trismegistus-roll-write",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/85028_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g555",
+  "nome": "Trolls and Princesses",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/trolls-and-princesses",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/53216_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g556",
+  "nome": "Turn the Tide",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/turn-the-tide",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/2274_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g557",
+  "nome": "Twin Palms",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/twin-palms",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/35311_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g558",
+  "nome": "Tyrants of the Underdark",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/tyrants-of-the-underdark",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/9611_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g559",
+  "nome": "Tzolk'in: The Mayan Calendar",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/tzolk-in-the-mayan-calendar",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/422_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g560",
+  "nome": "UeStop!",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/uestop",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/34940_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g561",
+  "nome": "Unconscious Mind",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/unconscious-mind",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/30978_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g562",
+  "nome": "Underwater Cities",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/underwater-cities",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/18404_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g563",
+  "nome": "Unmatched: Little Red Riding Hood vs. Beowulf",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/unmatched-little-red-riding-hood-vs-beowulf",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/27320_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g564",
+  "nome": "UNO: Mario Kart",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/uno-mario-kart",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/53127_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g565",
+  "nome": "Vampire Queen",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/vampire-queen",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/40900_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g566",
+  "nome": "Vast: The Crystal Caverns",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/vast-the-crystal-caverns",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/10976_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g567",
+  "nome": "Vazerneiros",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/vazerneiros",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/78145_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g568",
+  "nome": "Velonimo",
+  "donos": [
+   "TheOne",
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/velonimo",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/33348_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g569",
+  "nome": "Video Game Champion",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/video-game-champion",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/21960_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g570",
+  "nome": "Village",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/village",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/70_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g571",
+  "nome": "Viticulture Essential Edition",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/viticulture-essential-edition",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/9711_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g572",
+  "nome": "Vivo",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/vivo",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/66233_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g573",
+  "nome": "Voidfall",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/voidfall",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/31155_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g574",
+  "nome": "Votes for Women",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/votes-for-women",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/25937_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g575",
+  "nome": "Wandering Towers",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/wandering-towers",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/34948_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g576",
+  "nome": "Wayfarers of the South Tigris",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/wayfarers-of-the-south-tigris",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/33640_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g577",
+  "nome": "Windmill Valley",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/windmill-valley",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/59578_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g578",
+  "nome": "Wine Cellar",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/wine-cellar",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/62116_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g579",
+  "nome": "Wingspan",
+  "donos": [
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/wingspan",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/20418_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g580",
+  "nome": "Wizard Deluxe",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/wizard-deluxe",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/44884_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g581",
+  "nome": "Woodcraft",
+  "donos": [
+   "palomolh",
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/woodcraft",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/36732_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g582",
+  "nome": "Woof Days",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/woof-days",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/76631_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g583",
+  "nome": "Xylotar",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/xylotar",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/63761_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g584",
+  "nome": "Yamataï",
+  "donos": [
+   "majestic234"
+  ],
+  "link": "https://ludopedia.com.br/jogo/yamatai",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/12462_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g585",
+  "nome": "Yokai Sketch",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/yokai-sketch",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/49917_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g586",
+  "nome": "Yokohama: Second Edition",
+  "donos": [
+   "TheOne",
+   "reisfelipejr"
+  ],
+  "link": "https://ludopedia.com.br/jogo/yokohama-second-edition",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/58195_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g587",
+  "nome": "Zogen",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/zogen",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/18211_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g588",
+  "nome": "Zombicide Season 2: Prison Outbreak",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/zombicide-season-2-prison-outbreak",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/501_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g589",
+  "nome": "Zombicide: Gear Up",
+  "donos": [
+   "palomolh",
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/zombicide-gear-up",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/36480_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g590",
+  "nome": "Zombicide: Green Horde",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/zombicide-green-horde",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/14030_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g591",
+  "nome": "Zombicide: White Death",
+  "donos": [
+   "palomolh"
+  ],
+  "link": "https://ludopedia.com.br/jogo/zombicide-white-death",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/50702_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g592",
+  "nome": "Zoo Vadis",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/zoo-vadis",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/38855_s.jpg",
+  "status": ""
+ },
+ {
+  "id": "g593",
+  "nome": "ZooStock",
+  "donos": [
+   "TheOne"
+  ],
+  "link": "https://ludopedia.com.br/jogo/zoostock",
+  "imagem": "https://storage.googleapis.com/ludopedia-capas/62770_s.jpg",
+  "status": ""
+ }
+]

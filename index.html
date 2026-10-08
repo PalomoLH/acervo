@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Acervo de Jogos</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="topo">
+  <h1>🎲 Acervo de Jogos</h1>
+  <nav><a href="index.html" class="ativo">Acervo</a><a href="gerenciar.html">Gerenciar</a></nav>
+</header>
+
+<div class="filtros">
+  <input type="search" id="busca" placeholder="Buscar jogo…">
+  <select id="dono"><option value="">Todos os donos</option></select>
+  <select id="ordem">
+    <option value="nome">Ordenar: nome</option>
+    <option value="status">Ordenar: marcação</option>
+  </select>
+</div>
+<div class="filtros" id="chips"></div>
+<p class="resumo" id="resumo"></p>
+<main class="grade" id="grade"></main>
+
+<script type="module">
+import { carregar, salvar, STATUS, todosDonos, normalizar } from './assets/store.js';
+
+let jogos = await carregar();
+const filtroStatus = new Set();
+const $ = id => document.getElementById(id);
+
+const selDono = $('dono');
+for (const d of todosDonos(jogos)) selDono.add(new Option(d, d));
+
+function renderChips() {
+  const cont = Object.fromEntries(Object.keys(STATUS).map(k => [k, 0]));
+  for (const j of jogos) cont[j.status || '']++;
+  $('chips').innerHTML = Object.entries(STATUS).map(([k, s]) =>
+    `<span class="chip" role="button" tabindex="0" data-k="${k}" aria-pressed="${filtroStatus.has(k)}">
+       <span class="ponto" style="background:${s.cor}"></span>${s.label} (${cont[k]})</span>`).join('');
+}
+
+function esc(t) { return String(t).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]); }
+
+const ORDEM_STATUS = { sabemos: 0, interesse: 1, vender: 2, '': 3 };
+
+function render() {
+  const q = normalizar($('busca').value.trim());
+  const dono = selDono.value;
+  let lista = jogos.filter(j =>
+    (!q || normalizar(j.nome).includes(q)) &&
+    (!dono || j.donos.includes(dono)) &&
+    (!filtroStatus.size || filtroStatus.has(j.status || '')));
+  lista.sort((a, b) => $('ordem').value === 'status'
+    ? ORDEM_STATUS[a.status || ''] - ORDEM_STATUS[b.status || ''] || a.nome.localeCompare(b.nome)
+    : a.nome.localeCompare(b.nome));
+
+  $('resumo').textContent = `${lista.length} de ${jogos.length} jogos`;
+  $('grade').innerHTML = lista.map(j => `
+    <article class="card" data-id="${j.id}" data-status="${j.status || ''}">
+      <img class="capa" loading="lazy" src="${esc(j.imagem || '')}" alt="">
+      <div class="info">
+        <div class="nome">${j.link ? `<a href="${esc(j.link)}" target="_blank" rel="noopener">${esc(j.nome)}</a>` : esc(j.nome)}</div>
+        <div class="donos">${esc(j.donos.join(', '))}</div>
+        <div class="acoes">
+          ${['sabemos', 'interesse', 'vender'].map(s =>
+            `<button data-s="${s}" title="${STATUS[s].label}" aria-pressed="${j.status === s}">${{ sabemos: '✓', interesse: '★', vender: '$' }[s]}</button>`).join('')}
+        </div>
+      </div>
+    </article>`).join('');
+  renderChips();
+}
+
+$('grade').addEventListener('click', e => {
+  const btn = e.target.closest('button[data-s]');
+  if (!btn) return;
+  const jogo = jogos.find(j => j.id === btn.closest('.card').dataset.id);
+  jogo.status = jogo.status === btn.dataset.s ? '' : btn.dataset.s;
+  salvar(jogos);
+  render();
+});
+
+function toggleChip(e) {
+  const chip = e.target.closest('.chip');
+  if (!chip) return;
+  const k = chip.dataset.k;
+  filtroStatus.has(k) ? filtroStatus.delete(k) : filtroStatus.add(k);
+  render();
+}
+$('chips').addEventListener('click', toggleChip);
+$('chips').addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); toggleChip(e); } });
+for (const id of ['busca', 'dono', 'ordem']) $(id).addEventListener('input', render);
+
+render();
+</script>
+</body>
+</html>

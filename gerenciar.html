@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Gerenciar Acervo</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="topo">
+  <h1>🎲 Acervo de Jogos</h1>
+  <nav><a href="index.html">Acervo</a><a href="gerenciar.html" class="ativo">Gerenciar</a></nav>
+</header>
+
+<div class="painel">
+  <p class="aviso">
+    Os dados ficam salvos <strong>só neste navegador</strong> (localStorage). Use <em>Exportar</em> para
+    gerar um <code>jogos.json</code> e compartilhar/backup, e <em>Importar</em> para carregar um arquivo.
+  </p>
+  <div class="filtros" style="padding:0 0 12px">
+    <input type="search" id="busca" placeholder="Buscar jogo…">
+    <select id="fStatus"><option value="*">Todas as marcações</option></select>
+    <button class="primario" id="novo">+ Novo jogo</button>
+    <button id="exportar">Exportar</button>
+    <label class="btn">Importar<input type="file" id="importar" accept=".json,application/json" hidden></label>
+    <button class="perigo" id="restaurar">Restaurar base</button>
+  </div>
+  <p class="resumo" id="resumo" style="padding:0 0 8px"></p>
+  <div class="tabela-wrap">
+    <table>
+      <thead><tr><th></th><th>Nome</th><th>Donos</th><th>Marcação</th><th class="col-link">Link</th><th></th></tr></thead>
+      <tbody id="corpo"></tbody>
+    </table>
+  </div>
+</div>
+
+<dialog id="dlg">
+  <form method="dialog" id="form">
+    <h2 id="dlgTitulo" style="margin:0;font-size:18px">Jogo</h2>
+    <label>Nome<input type="text" name="nome" required></label>
+    <label>Donos (separados por vírgula)<input type="text" name="donos" list="listaDonos"></label>
+    <label>Marcação<select name="status" id="selStatus"></select></label>
+    <label>Link (Ludopedia etc.)<input type="url" name="link"></label>
+    <label>URL da imagem<input type="url" name="imagem"></label>
+    <div class="linha-botoes">
+      <button value="cancelar" formnovalidate>Cancelar</button>
+      <button value="salvar" class="primario">Salvar</button>
+    </div>
+  </form>
+</dialog>
+<datalist id="listaDonos"></datalist>
+
+<script type="module">
+import { carregar, carregarBase, salvar, limparLocal, STATUS, novoId, exportar, todosDonos, normalizar } from './assets/store.js';
+
+let jogos = await carregar();
+let editando = null;
+const $ = id => document.getElementById(id);
+const esc = t => String(t).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
+
+for (const [k, s] of Object.entries(STATUS)) {
+  $('fStatus').add(new Option(s.label, k));
+  $('selStatus').add(new Option(s.label, k));
+}
+
+const selectStatus = atual => `<select data-acao="status">${Object.entries(STATUS)
+  .map(([k, s]) => `<option value="${k}" ${k === (atual || '') ? 'selected' : ''}>${s.label}</option>`).join('')}</select>`;
+
+function render() {
+  const q = normalizar($('busca').value.trim());
+  const f = $('fStatus').value;
+  const lista = jogos
+    .filter(j => (!q || normalizar(j.nome).includes(q)) && (f === '*' || (j.status || '') === f))
+    .sort((a, b) => a.nome.localeCompare(b.nome));
+  $('resumo').textContent = `${lista.length} de ${jogos.length} jogos`;
+  $('corpo').innerHTML = lista.map(j => `
+    <tr data-id="${j.id}" data-status="${j.status || ''}">
+      <td><img loading="lazy" src="${esc(j.imagem || '')}" alt=""></td>
+      <td>${esc(j.nome)}</td>
+      <td>${esc(j.donos.join(', '))}</td>
+      <td>${selectStatus(j.status)}</td>
+      <td class="col-link">${j.link ? `<a href="${esc(j.link)}" target="_blank" rel="noopener">abrir</a>` : ''}</td>
+      <td class="acoes"><button data-acao="editar">Editar</button> <button data-acao="excluir" class="perigo">Excluir</button></td>
+    </tr>`).join('');
+  $('listaDonos').innerHTML = todosDonos(jogos).map(d => `<option value="${esc(d)}">`).join('');
+}
+
+function persistir() { salvar(jogos); render(); }
+
+function abrir(jogo) {
+  editando = jogo;
+  const f = $('form');
+  $('dlgTitulo').textContent = jogo ? 'Editar jogo' : 'Novo jogo';
+  f.nome.value = jogo?.nome || '';
+  f.donos.value = jogo?.donos.join(', ') || '';
+  f.status.value = jogo?.status || '';
+  f.link.value = jogo?.link || '';
+  f.imagem.value = jogo?.imagem || '';
+  $('dlg').showModal();
+}
+
+$('dlg').addEventListener('close', () => {
+  if ($('dlg').returnValue !== 'salvar') return;
+  const f = $('form');
+  const dados = {
+    nome: f.nome.value.trim(),
+    donos: f.donos.value.split(',').map(s => s.trim()).filter(Boolean),
+    status: f.status.value,
+    link: f.link.value.trim(),
+    imagem: f.imagem.value.trim(),
+  };
+  if (editando) Object.assign(editando, dados);
+  else jogos.push({ id: novoId(), ...dados });
+  persistir();
+});
+
+$('corpo').addEventListener('change', e => {
+  if (e.target.dataset.acao !== 'status') return;
+  jogos.find(j => j.id === e.target.closest('tr').dataset.id).status = e.target.value;
+  persistir();
+});
+
+$('corpo').addEventListener('click', e => {
+  const acao = e.target.dataset.acao;
+  if (!acao || acao === 'status') return;
+  const jogo = jogos.find(j => j.id === e.target.closest('tr').dataset.id);
+  if (acao === 'editar') abrir(jogo);
+  if (acao === 'excluir' && confirm(`Excluir "${jogo.nome}"?`)) {
+    jogos = jogos.filter(j => j !== jogo);
+    persistir();
+  }
+});
+
+$('novo').onclick = () => abrir(null);
+$('exportar').onclick = () => exportar(jogos);
+$('importar').onchange = async e => {
+  const arq = e.target.files[0];
+  if (!arq) return;
+  try {
+    const dados = JSON.parse(await arq.text());
+    if (!Array.isArray(dados)) throw new Error('o arquivo não contém uma lista de jogos');
+    jogos = dados.map(j => ({ id: j.id || novoId(), nome: j.nome || '', donos: j.donos || [], status: j.status || '', link: j.link || '', imagem: j.imagem || '' }));
+    persistir();
+  } catch (err) {
+    alert('Falha ao importar: ' + err.message);
+  }
+  e.target.value = '';
+};
+$('restaurar').onclick = async () => {
+  if (!confirm('Descartar as alterações deste navegador e voltar para a base original?')) return;
+  limparLocal();
+  jogos = await carregarBase();
+  render();
+};
+$('busca').oninput = render;
+$('fStatus').oninput = render;
+
+render();
+</script>
+</body>
+</html>

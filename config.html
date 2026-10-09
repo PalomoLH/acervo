@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Configurar Admin</title>
+<script>try { const t = localStorage.getItem('acervo.tema'); if (t) document.documentElement.dataset.theme = t; } catch {}</script>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="topo">
+  <h1>🎲 Configurar admin</h1>
+  <span id="salvamento"></span>
+  <nav><a href="index.html">Acervo</a></nav>
+  <div class="ferramentas"><button id="tema"></button><button id="admin"></button></div>
+</header>
+
+<div class="painel" style="max-width:640px">
+  <div class="aviso">
+    <p style="margin-top:0">Faça isso uma vez (ou quando o token expirar):</p>
+    <ol style="margin:0;padding-left:20px">
+      <li>No GitHub, crie um <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">fine-grained token</a>:
+        <em>Repository access</em> → <strong>Only select repositories</strong> → <code>acervo</code>;
+        <em>Permissions</em> → <strong>Contents: Read and write</strong>. Escolha a validade que quiser.</li>
+      <li>Cole o token abaixo e defina a senha de admin.</li>
+    </ol>
+    <p style="margin-bottom:0">O token é salvo <strong>criptografado com a senha</strong> em <code>data/auth.json</code>.
+      Sem a senha ninguém consegue usá-lo. Ele nunca é enviado para outro lugar além da API do GitHub.</p>
+  </div>
+
+  <form id="form" style="display:flex;flex-direction:column;gap:12px">
+    <label class="campo">Token do GitHub<input type="password" name="token" autocomplete="off" required placeholder="github_pat_…"></label>
+    <label class="campo">Senha de admin<input type="password" name="senha" autocomplete="new-password" required></label>
+    <label class="campo">Repita a senha<input type="password" name="senha2" autocomplete="new-password" required></label>
+    <p class="erro" id="msg"></p>
+    <div><button class="primario" id="btn">Salvar configuração</button></div>
+  </form>
+</div>
+
+<script type="module">
+import { cifrar, gravarArquivo, shaDe } from './assets/store.js';
+import { montarTopo } from './assets/ui.js';
+
+montarTopo(() => {});
+const form = document.getElementById('form');
+const msg = document.getElementById('msg');
+
+form.addEventListener('submit', async e => {
+  e.preventDefault();
+  msg.style.color = '';
+  const tok = form.token.value.trim();
+  if (form.senha.value !== form.senha2.value) { msg.textContent = 'As senhas não conferem.'; return; }
+  const btn = document.getElementById('btn');
+  btn.disabled = true;
+  msg.textContent = 'Verificando token…';
+  try {
+    const repo = await fetch('https://api.github.com/repos/PalomoLH/acervo', {
+      cache: 'no-store', headers: { Authorization: `Bearer ${tok}`, Accept: 'application/vnd.github+json' },
+    });
+    if (!repo.ok) throw new Error(`o token não acessa o repositório (GitHub respondeu ${repo.status}).`);
+    if (!(await repo.json()).permissions?.push) throw new Error('o token não tem permissão de escrita (Contents: Read and write).');
+
+    msg.textContent = 'Criptografando e salvando…';
+    const cfg = await cifrar(tok, form.senha.value);
+    const resp = await gravarArquivo(tok, 'data/auth.json', cfg, 'Configura acesso de admin', await shaDe(tok, 'data/auth.json'));
+    if (!resp.ok) throw new Error(`não foi possível gravar (GitHub respondeu ${resp.status}).`);
+
+    form.reset();
+    msg.style.color = 'var(--verde)';
+    msg.textContent = 'Pronto! Em ~1 minuto o site publica a configuração. Depois é só usar o botão Admin com a senha.';
+  } catch (err) {
+    msg.textContent = 'Erro: ' + err.message;
+  } finally {
+    btn.disabled = false;
+  }
+});
+</script>
+</body>
+</html>

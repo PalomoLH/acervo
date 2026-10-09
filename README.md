@@ -1,15 +1,18 @@
 # Acervo de Jogos
 
-Site estático (GitHub Pages) para marcar os jogos do acervo:
+Site estático (GitHub Pages) com o acervo de jogos: https://palomolh.github.io/acervo/
 
-- 🟢 **borda verde** — sabemos jogar
-- 🟠 **borda laranja** — temos interesse
-- 🔴 **borda vermelha** — pretendemos vender
+- 🟢 **borda verde**: sabemos jogar
+- 🟠 **borda laranja**: queremos jogar (ainda não sabemos)
+- 🔴 **borda vermelha**: para vender
 
-Páginas: `index.html` (acervo com capas e filtros) e `gerenciar.html` (adicionar, editar, excluir, importar/exportar).
+## Como funciona
 
-Dados: a base inicial está em `data/jogos.json` (gerada da planilha). As alterações ficam salvas no
-`localStorage` do navegador. Para tornar uma alteração "oficial", use **Exportar** e substitua `data/jogos.json`.
-A camada de dados fica em `assets/store.js`, para trocar por um backend depois.
+- **Visitantes** só veem o acervo.
+- **Admin** clica em 🔒 Admin, digita a senha e pode marcar jogos e usar a página `gerenciar.html`.
+- Cada alteração vira um commit em `data/jogos.json` pela API do GitHub. Não tem banco de dados nem servidor.
+- A senha decifra um token do GitHub guardado criptografado (AES-GCM + PBKDF2) em `data/auth.json`.
+  Para configurar ou trocar o token ou a senha, use `config.html`.
+- Botão ☀️/🌙 alterna o tema claro/escuro.
 
 Rodar local: `python -m http.server 8765` e abrir http://localhost:8765

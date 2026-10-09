@@ -4,12 +4,15 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Acervo de Jogos</title>
+<script>try { const t = localStorage.getItem('acervo.tema'); if (t) document.documentElement.dataset.theme = t; } catch {}</script>
 <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
 <header class="topo">
   <h1>🎲 Acervo de Jogos</h1>
-  <nav><a href="index.html" class="ativo">Acervo</a><a href="gerenciar.html">Gerenciar</a></nav>
+  <span id="salvamento"></span>
+  <nav><a href="index.html" class="ativo">Acervo</a><a href="gerenciar.html" class="so-admin">Gerenciar</a></nav>
+  <div class="ferramentas"><button id="tema"></button><button id="admin"></button></div>
 </header>
 
 <div class="filtros">
@@ -21,18 +24,27 @@
   </select>
 </div>
 <div class="filtros" id="chips"></div>
-<p class="resumo" id="resumo"></p>
+<p class="resumo" id="resumo">Carregando…</p>
 <main class="grade" id="grade"></main>
 
 <script type="module">
-import { carregar, salvar, STATUS, todosDonos, normalizar } from './assets/store.js';
+import { carregar, salvarJogo, STATUS, todosDonos, normalizar, esc } from './assets/store.js';
+import { montarTopo } from './assets/ui.js';
 
-let jogos = await carregar();
+let jogos = [];
 const filtroStatus = new Set();
 const $ = id => document.getElementById(id);
+const ICONE = { sabemos: '✓', interesse: '★', vender: '$' };
+const ORDEM_STATUS = { sabemos: 0, interesse: 1, vender: 2, '': 3 };
 
-const selDono = $('dono');
-for (const d of todosDonos(jogos)) selDono.add(new Option(d, d));
+async function recarregar() {
+  jogos = await carregar();
+  const atual = $('dono').value;
+  $('dono').length = 1;
+  for (const d of todosDonos(jogos)) $('dono').add(new Option(d, d));
+  $('dono').value = atual;
+  render();
+}
 
 function renderChips() {
   const cont = Object.fromEntries(Object.keys(STATUS).map(k => [k, 0]));
@@ -42,14 +54,10 @@ function renderChips() {
        <span class="ponto" style="background:${s.cor}"></span>${s.label} (${cont[k]})</span>`).join('');
 }
 
-function esc(t) { return String(t).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]); }
-
-const ORDEM_STATUS = { sabemos: 0, interesse: 1, vender: 2, '': 3 };
-
 function render() {
   const q = normalizar($('busca').value.trim());
-  const dono = selDono.value;
-  let lista = jogos.filter(j =>
+  const dono = $('dono').value;
+  const lista = jogos.filter(j =>
     (!q || normalizar(j.nome).includes(q)) &&
     (!dono || j.donos.includes(dono)) &&
     (!filtroStatus.size || filtroStatus.has(j.status || '')));
@@ -59,14 +67,14 @@ function render() {
 
   $('resumo').textContent = `${lista.length} de ${jogos.length} jogos`;
   $('grade').innerHTML = lista.map(j => `
-    <article class="card" data-id="${j.id}" data-status="${j.status || ''}">
+    <article class="card" data-id="${j.id}" data-status="${j.status || ''}" title="${esc(STATUS[j.status || ''].label)}">
       <img class="capa" loading="lazy" src="${esc(j.imagem || '')}" alt="">
       <div class="info">
         <div class="nome">${j.link ? `<a href="${esc(j.link)}" target="_blank" rel="noopener">${esc(j.nome)}</a>` : esc(j.nome)}</div>
         <div class="donos">${esc(j.donos.join(', '))}</div>
-        <div class="acoes">
+        <div class="acoes so-admin">
           ${['sabemos', 'interesse', 'vender'].map(s =>
-            `<button data-s="${s}" title="${STATUS[s].label}" aria-pressed="${j.status === s}">${{ sabemos: '✓', interesse: '★', vender: '$' }[s]}</button>`).join('')}
+            `<button data-s="${s}" title="${STATUS[s].label}" aria-pressed="${j.status === s}">${ICONE[s]}</button>`).join('')}
         </div>
       </div>
     </article>`).join('');
@@ -78,7 +86,7 @@ $('grade').addEventListener('click', e => {
   if (!btn) return;
   const jogo = jogos.find(j => j.id === btn.closest('.card').dataset.id);
   jogo.status = jogo.status === btn.dataset.s ? '' : btn.dataset.s;
-  salvar(jogos);
+  salvarJogo(jogo);
   render();
 });
 
@@ -93,7 +101,8 @@ $('chips').addEventListener('click', toggleChip);
 $('chips').addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); toggleChip(e); } });
 for (const id of ['busca', 'dono', 'ordem']) $(id).addEventListener('input', render);
 
-render();
+montarTopo(recarregar);
+recarregar();
 </script>
 </body>
 </html>

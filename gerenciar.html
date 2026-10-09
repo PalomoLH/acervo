@@ -4,33 +4,39 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Gerenciar Acervo</title>
+<script>try { const t = localStorage.getItem('acervo.tema'); if (t) document.documentElement.dataset.theme = t; } catch {}</script>
 <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
 <header class="topo">
   <h1>🎲 Acervo de Jogos</h1>
+  <span id="salvamento"></span>
   <nav><a href="index.html">Acervo</a><a href="gerenciar.html" class="ativo">Gerenciar</a></nav>
+  <div class="ferramentas"><button id="tema"></button><button id="admin"></button></div>
 </header>
 
 <div class="painel">
-  <p class="aviso">
-    Os dados ficam salvos <strong>só neste navegador</strong> (localStorage). Use <em>Exportar</em> para
-    gerar um <code>jogos.json</code> e compartilhar/backup, e <em>Importar</em> para carregar um arquivo.
+  <p class="aviso so-visitante">
+    🔒 Esta página é só para o admin. Clique em <strong>Admin</strong> no topo e digite a senha.
   </p>
-  <div class="filtros" style="padding:0 0 12px">
-    <input type="search" id="busca" placeholder="Buscar jogo…">
-    <select id="fStatus"><option value="*">Todas as marcações</option></select>
-    <button class="primario" id="novo">+ Novo jogo</button>
-    <button id="exportar">Exportar</button>
-    <label class="btn">Importar<input type="file" id="importar" accept=".json,application/json" hidden></label>
-    <button class="perigo" id="restaurar">Restaurar base</button>
-  </div>
-  <p class="resumo" id="resumo" style="padding:0 0 8px"></p>
-  <div class="tabela-wrap">
-    <table>
-      <thead><tr><th></th><th>Nome</th><th>Donos</th><th>Marcação</th><th class="col-link">Link</th><th></th></tr></thead>
-      <tbody id="corpo"></tbody>
-    </table>
+  <div class="so-admin">
+    <p class="aviso">
+      Cada alteração é gravada no repositório do GitHub (<code>data/jogos.json</code>) alguns segundos depois.
+      O site público atualiza em cerca de 1 minuto.
+    </p>
+    <div class="filtros" style="padding:0 0 12px">
+      <input type="search" id="busca" placeholder="Buscar jogo…">
+      <select id="fStatus"><option value="*">Todas as marcações</option></select>
+      <button class="primario" id="novo">+ Novo jogo</button>
+      <button id="exportar" title="Baixa uma cópia de segurança">Exportar backup</button>
+    </div>
+    <p class="resumo" id="resumo" style="padding:0 0 8px"></p>
+    <div class="tabela-wrap">
+      <table>
+        <thead><tr><th></th><th>Nome</th><th>Donos</th><th>Marcação</th><th class="col-link">Link</th><th></th></tr></thead>
+        <tbody id="corpo"></tbody>
+      </table>
+    </div>
   </div>
 </div>
 
@@ -51,12 +57,12 @@
 <datalist id="listaDonos"></datalist>
 
 <script type="module">
-import { carregar, carregarBase, salvar, limparLocal, STATUS, novoId, exportar, todosDonos, normalizar } from './assets/store.js';
+import { carregar, isAdmin, salvarJogo, excluirJogo, STATUS, novoId, exportar, todosDonos, normalizar, esc } from './assets/store.js';
+import { montarTopo } from './assets/ui.js';
 
-let jogos = await carregar();
+let jogos = [];
 let editando = null;
 const $ = id => document.getElementById(id);
-const esc = t => String(t).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
 
 for (const [k, s] of Object.entries(STATUS)) {
   $('fStatus').add(new Option(s.label, k));
@@ -65,6 +71,13 @@ for (const [k, s] of Object.entries(STATUS)) {
 
 const selectStatus = atual => `<select data-acao="status">${Object.entries(STATUS)
   .map(([k, s]) => `<option value="${k}" ${k === (atual || '') ? 'selected' : ''}>${s.label}</option>`).join('')}</select>`;
+
+async function recarregar() {
+  if (!isAdmin()) { jogos = []; $('corpo').innerHTML = ''; return; }
+  $('resumo').textContent = 'Carregando…';
+  jogos = await carregar();
+  render();
+}
 
 function render() {
   const q = normalizar($('busca').value.trim());
@@ -84,8 +97,6 @@ function render() {
     </tr>`).join('');
   $('listaDonos').innerHTML = todosDonos(jogos).map(d => `<option value="${esc(d)}">`).join('');
 }
-
-function persistir() { salvar(jogos); render(); }
 
 function abrir(jogo) {
   editando = jogo;
@@ -109,15 +120,19 @@ $('dlg').addEventListener('close', () => {
     link: f.link.value.trim(),
     imagem: f.imagem.value.trim(),
   };
-  if (editando) Object.assign(editando, dados);
-  else jogos.push({ id: novoId(), ...dados });
-  persistir();
+  let jogo = editando;
+  if (jogo) Object.assign(jogo, dados);
+  else jogos.push(jogo = { id: novoId(), ...dados });
+  salvarJogo(jogo);
+  render();
 });
 
 $('corpo').addEventListener('change', e => {
   if (e.target.dataset.acao !== 'status') return;
-  jogos.find(j => j.id === e.target.closest('tr').dataset.id).status = e.target.value;
-  persistir();
+  const jogo = jogos.find(j => j.id === e.target.closest('tr').dataset.id);
+  jogo.status = e.target.value;
+  salvarJogo(jogo);
+  render();
 });
 
 $('corpo').addEventListener('click', e => {
@@ -127,35 +142,18 @@ $('corpo').addEventListener('click', e => {
   if (acao === 'editar') abrir(jogo);
   if (acao === 'excluir' && confirm(`Excluir "${jogo.nome}"?`)) {
     jogos = jogos.filter(j => j !== jogo);
-    persistir();
+    excluirJogo(jogo);
+    render();
   }
 });
 
 $('novo').onclick = () => abrir(null);
 $('exportar').onclick = () => exportar(jogos);
-$('importar').onchange = async e => {
-  const arq = e.target.files[0];
-  if (!arq) return;
-  try {
-    const dados = JSON.parse(await arq.text());
-    if (!Array.isArray(dados)) throw new Error('o arquivo não contém uma lista de jogos');
-    jogos = dados.map(j => ({ id: j.id || novoId(), nome: j.nome || '', donos: j.donos || [], status: j.status || '', link: j.link || '', imagem: j.imagem || '' }));
-    persistir();
-  } catch (err) {
-    alert('Falha ao importar: ' + err.message);
-  }
-  e.target.value = '';
-};
-$('restaurar').onclick = async () => {
-  if (!confirm('Descartar as alterações deste navegador e voltar para a base original?')) return;
-  limparLocal();
-  jogos = await carregarBase();
-  render();
-};
 $('busca').oninput = render;
 $('fStatus').oninput = render;
 
-render();
+montarTopo(recarregar);
+recarregar();
 </script>
 </body>
 </html>

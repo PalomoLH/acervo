@@ -12,7 +12,7 @@
   color-scheme: light;
 }
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not([data-theme="light"]) {
     --bg: #17161a;
     --surface: #222127;
     --texto: #eeeae4;
@@ -25,6 +25,19 @@
     --neutro: #45424b;
     color-scheme: dark;
   }
+}
+:root[data-theme="dark"] {
+  --bg: #17161a;
+  --surface: #222127;
+  --texto: #eeeae4;
+  --suave: #a19c94;
+  --linha: #34323a;
+  --acento: #748ffc;
+  --verde: #40c057;
+  --laranja: #ff922b;
+  --vermelho: #fa5252;
+  --neutro: #45424b;
+  color-scheme: dark;
 }
 
 * { box-sizing: border-box; }
@@ -127,7 +140,7 @@ dialog {
 }
 dialog::backdrop { background: rgba(0,0,0,.45); }
 dialog form { display: flex; flex-direction: column; gap: 12px; }
-dialog label { display: flex; flex-direction: column; gap: 4px; font-size: 13px; color: var(--suave); }
+dialog label, label.campo { display: flex; flex-direction: column; gap: 4px; font-size: 13px; color: var(--suave); }
 dialog .linha-botoes { display: flex; gap: 8px; justify-content: flex-end; }
 .aviso { font-size: 13px; color: var(--suave); background: var(--surface); border: 1px dashed var(--linha); border-radius: 10px; padding: 10px 12px; margin: 12px 0; }
 
@@ -135,3 +148,16 @@ dialog .linha-botoes { display: flex; gap: 8px; justify-content: flex-end; }
   .grade { grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); gap: 10px; }
   .col-link { display: none; }
 }
+
+/* Cabeçalho: tema, admin, salvamento */
+.topo .ferramentas { display: flex; gap: 8px; align-items: center; }
+#tema { padding: 6px 9px; line-height: 1; }
+#salvamento { font-size: 13px; color: var(--suave); }
+#salvamento[data-tipo=salvo] { color: var(--verde); }
+#salvamento[data-tipo=erro] { color: var(--vermelho); }
+#salvamento button { padding: 2px 8px; font-size: 12px; margin-left: 6px; }
+.erro { color: var(--vermelho); font-size: 13px; margin: 0; min-height: 1em; }
+
+/* Visitante só vê; controles de edição aparecem só para o admin */
+body:not(.admin) .so-admin { display: none !important; }
+body.admin .so-visitante { display: none !important; }

@@ -5135,7 +5135,7 @@
   ],
   "link": "https://ludopedia.com.br/jogo/the-guild-of-merchant-explorers",
   "imagem": "https://storage.googleapis.com/ludopedia-capas/35559_s.jpg",
-  "status": ""
+  "status": "vender"
  },
  {
   "id": "g510",
@@ -5145,7 +5145,7 @@
   ],
   "link": "https://ludopedia.com.br/jogo/the-initiative",
   "imagem": "https://storage.googleapis.com/ludopedia-capas/28716_s.jpg",
-  "status": ""
+  "status": "interesse"
  },
  {
   "id": "g511",
